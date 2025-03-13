@@ -151,7 +151,7 @@ Examples of Primitive Data Types
 x = 10              # Integer
 y = 10.5            # Float
 is_active = True    # Boolean
-name = "Alice"      # String
+name = "Pankaj Sharma"      # String
 
 print(type(x))      
 print(type(y))     
@@ -160,5 +160,48 @@ print(type(name))
 
 ```
 
-	
-	
+** Examples
+
+1. Open Day02 >> datatype_task.py (Read Comment and complete)
+
+
+### Type Conversion in python
+
+Type conversion is basically converting one type into another type. 
+There are two types of Type Conversion in python:
+
+1. Implicit Type Conversion
+2. Explicit Type Conversion
+
+In Implicit type conversion of data types in Python, the Python interpreter automatically converts one data type to another without any user involvement.
+
+** Example of Implicit Type Conversion (Day02 >> typeconvertion_test.py)
+
+```
+a=10
+b=1.5
+c=a+b
+print(c)
+d=True
+e=a+d
+print(e)
+```
+
+** Example of Explicit Type Conversion part1 (Day02 >> explicittypeconvertion_test.py)
+
+```
+strNumber = "135"
+x=5+int(strNumber)
+f = float(x)
+print(x)
+print(f)
+```
+
+** Example of Explicit Type Conversion part2 (Day02 >> explicittypeconvertion2_test.py)
+
+```
+msg="hello world"
+print(list(msg))
+print(tuple(msg))
+print(set(msg))
+```
