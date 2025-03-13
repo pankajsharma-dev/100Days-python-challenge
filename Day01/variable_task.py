@@ -1,0 +1,1 @@
+# Create a variable as greeting_message, accept the value in variable and display its total characters
