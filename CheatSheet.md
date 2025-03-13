@@ -130,18 +130,22 @@ Primitive data types in Python are the most basic types of data. They are the bu
 meaning their value cannot change after they are created. Here are the main primitive data types in Python:
 
 Examples of Primitive Data Types
--Integer (int) :
-	-Represents whole numbers.
-	-Example: x = 10
--Float (float) :
-	-Represents floating-point numbers (decimal values).
-	-Example: y = 10.5
--Boolean (bool) :
-	-Represents True or False values.
-	-Example: is_active = True
--String (str) :
-	-Represents a sequence of characters.
-	-Example: name = "Pankaj Sharma"
+
+- Integer (int) :
+	- Represents whole numbers.
+	- Example: x = 10
+	
+- Float (float) :
+	- Represents floating-point numbers (decimal values).
+	- Example: y = 10.5
+	
+- Boolean (bool) :
+	- Represents True or False values.
+	- Example: is_active = True
+	
+- String (str) :
+	- Represents a sequence of characters.
+	- Example: name = "Pankaj Sharma"
 	
 ```
 x = 10              # Integer
