@@ -25,7 +25,7 @@ A variable give a name to a piece of data.Like a box with a label, it tells you 
 4. Don't use special words like print or input
 5. Choose simple words that are less likely to become typos
 6. Check the company style guidelines if you start work at a company
-
+-----
 ### Assignment Time
 
 1. Assignment: Personalized Greeting Card Generator
@@ -46,7 +46,7 @@ Hello Priya!
 - Wishing you a fantastic day filled with joy and laughter.
 - Here's something special in your favorite color, Blue!
 ```
-
+-----
 2. Assignment: Temperature Conversion Tool
 Concepts Covered: input(), variable usage, string formatting
 
@@ -62,7 +62,7 @@ Task:
 Enter temperature in Celsius: 30
 30°C is equal to 86°F
 ```
-
+-----
 3. Assignment: Username Generator
 Concepts Covered: String slicing, concatenation, .upper(), .lower()
 
@@ -81,7 +81,7 @@ Your unique username is: RSHARMA99
 ```
 
 Hint: Combine initials + last name + last two digits of the birth year.
-
+-----
 4. Assignment: Word Counter for Essays
 Concepts Covered: String manipulation, .split(), .strip()
 
@@ -98,6 +98,7 @@ Word Count: 8
 Character Count: 43
 Sentence Count: 2
 ```
+-----
 
 5. Assignment: Secret Code Generator
 Concepts Covered: .replace(), .lower(), .upper()
