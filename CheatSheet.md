@@ -29,6 +29,7 @@ A variable give a name to a piece of data.Like a box with a label, it tells you 
 ### Assignment Time
 
 1. Assignment: Personalized Greeting Card Generator
+
 Concepts Covered: print(), input(), string concatenation
 
 Task:
@@ -48,6 +49,7 @@ Hello Priya!
 ```
 -----
 2. Assignment: Temperature Conversion Tool
+
 Concepts Covered: input(), variable usage, string formatting
 
 Task:
@@ -64,6 +66,7 @@ Enter temperature in Celsius: 30
 ```
 -----
 3. Assignment: Username Generator
+
 Concepts Covered: String slicing, concatenation, .upper(), .lower()
 
 Task:
@@ -83,6 +86,7 @@ Your unique username is: RSHARMA99
 Hint: Combine initials + last name + last two digits of the birth year.
 -----
 4. Assignment: Word Counter for Essays
+
 Concepts Covered: String manipulation, .split(), .strip()
 
 Task:
@@ -101,6 +105,7 @@ Sentence Count: 2
 -----
 
 5. Assignment: Secret Code Generator
+
 Concepts Covered: .replace(), .lower(), .upper()
 
 Task:
