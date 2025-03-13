@@ -121,3 +121,40 @@ Task:
 Enter your message: Hello World
 Secret Code: H3ll0 W0rld
 ```
+
+## Day 2
+
+### Primitive Data Types, Numbers, Operations, Type Conversions, f-Strings
+
+Primitive data types in Python are the most basic types of data. They are the building blocks for data manipulation in Python and are typically immutable, 
+meaning their value cannot change after they are created. Here are the main primitive data types in Python:
+
+Examples of Primitive Data Types
+-Integer (int) :
+	-Represents whole numbers.
+	-Example: x = 10
+-Float (float) :
+	-Represents floating-point numbers (decimal values).
+	-Example: y = 10.5
+-Boolean (bool) :
+	-Represents True or False values.
+	-Example: is_active = True
+-String (str) :
+	-Represents a sequence of characters.
+	-Example: name = "Pankaj Sharma"
+	
+```
+x = 10              # Integer
+y = 10.5            # Float
+is_active = True    # Boolean
+name = "Alice"      # String
+
+print(type(x))      
+print(type(y))     
+print(type(is_active))  
+print(type(name))   
+
+```
+
+	
+	
