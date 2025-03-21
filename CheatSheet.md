@@ -226,3 +226,106 @@ PEMDAS :  Parentheses, Exponents, Multiplication/Division, Addition/Subtraction
 
 Check BMI_Calculator_Assignment.py file and check the comment.
 
+## Day 3
+
+### Control Flow, Logical operators and Scope
+
+Syntax of If else
+
+```
+	if condition:
+		do this
+	else:
+		do this
+```
+
+
+
+Example 1: Simple Login System
+
+> Create a program to demonstrate the Login functionality. If user name is "admin" and password is "password123" show Login Successful, otherwise show invalid username or password.
+
+- work on LoginAssignment.py file. 
+
+Example 2: Purchase Discount use case
+
+> Create an application to show the final amount need to be paid after discount. Follow inputs provided in PurchaseDiscount.py file
+
+- Work on PurchaseDiscount.py file
+- Read the instruction properly.
+
+Example 3: ATM Withdraw Use case 
+
+> Check account balance before allowing a withdrawal.
+
+- work on ATMWithdrawCase.py file, read the comment
+
+> Day3 Final Assignment : 
+
+### 🍕 Python Pizza Ordering System - Assignment
+This assignment will help you practice key Python concepts such as:
+- User Input
+- Conditional Statement(if-else)
+- String function
+- Loops and Disctionaries
+- Basic Calculation logic
+
+📝 Assignment Task Description
+Create a Pizza Ordering System in Python with the following requirements:
+
+📌 Features to Implement
+Display the Pizza Menu
+
+Menu should include 4 types of pizzas with their prices.
+Example:
+```
+Margherita - ₹200
+Pepperoni - ₹250
+BBQ Chicken - ₹300
+Veggie Delight - ₹220
+
+```
+Take User Input
+
+Ask the user to select a pizza.
+Ask for the quantity they wish to order.
+Ask if they want extra cheese and extra olives (yes/no).
+Order Validation
+
+If the pizza name is not on the menu, display "❌ Invalid pizza choice." and exit the program.
+Ensure quantity is a positive number; otherwise, ask again.
+Price Calculation
+
+Base price = Pizza price × Quantity
+Extra Cheese = ₹30 (if selected)
+Extra Olives = ₹20 (if selected)
+Display Final Bill
+
+Show the complete order summary in a user-friendly format.
+Example Output:
+
+```
+🧾 Order Summary:
+Pizza: Margherita x 2
+Extra Cheese: Yes
+Extra Olives: No
+Total Amount to Pay: ₹430
+
+```
+Bonus Features (Optional for Extra Practice)
+
+Offer a combo discount if total bill exceeds ₹1000 (e.g., 10% off).
+Ask for user details like name and phone number for better interaction.
+
+Learning Outcome
+By completing this assignment, you'll gain practical experience in:
+
+✔️ Handling multiple conditions with if-else
+✔️ Using strip() and lower() for better input handling
+✔️ Building a simple yet effective billing system
+✔️ Improving code readability with meaningful variable names and comments
+
+Challenge
+Once your basic version is complete, try adding:
+🔹 A combo offer for orders above ₹1000
+🔹 An option for home delivery with delivery charges
