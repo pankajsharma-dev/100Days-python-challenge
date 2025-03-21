@@ -205,3 +205,24 @@ print(list(msg))
 print(tuple(msg))
 print(set(msg))
 ```
+
+** Convert decimal into binary, hexadecimal and octal (Day02 >> decimaltoother_test.py)
+
+```
+a=20
+binary_num = bin(a)
+hex_num = hex(a)
+oct_num = oct(a)
+
+print(binary_num)
+print(hex_num)
+print(oct_num)
+```
+
+** Math Operations (Day02 >> Mathoperaions_test.py) : check the specified file and check the comment.
+PEMDAS :  Parentheses, Exponents, Multiplication/Division, Addition/Subtraction
+
+### Assignment : BMI Calculator
+
+Check BMI_Calculator_Assignment.py file and check the comment.
+
